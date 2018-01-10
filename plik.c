@@ -1,0 +1,30 @@
+#include<stdio.h>
+
+int main(void)
+{
+	ASDASd
+das
+dasDasDa
+dad
+ASd
+asD
+asD
+asD
+asdas
+das
+ds
+dAs
+dA
+dAs
+dA
+dA
+dada
+sdA
+sdA
+dAs
+dAS
+dasD
+asdA
+sdas
+DD
+}
